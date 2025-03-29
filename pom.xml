@@ -5,34 +5,6 @@
   <artifactId>kzlf_imkf_sdk</artifactId>
   <version>4.9.8</version>
   <packaging>aar</packaging>
-  <name>kzlf_imkf_sdk</name>
-  <description>kzlf_imkf_sdk_cc_noui_sdk</description>
-  <url>https://github.com/kzlf</url>
-  <inceptionYear>2025</inceptionYear>
-  <licenses>
-    <license>
-      <name>The Apache Software License, Version 2.0</name>
-      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
-      <distribution>repo</distribution>
-    </license>
-  </licenses>
-  <developers>
-    <developer>
-      <id>KZLF</id>
-      <name>KZLF</name>
-      <email>imkf@kuaizhilefu.com</email>
-      <url>https://github.com/KZLF</url>
-    </developer>
-  </developers>
-  <scm>
-    <connection>scm:git@https://github.com/kzlf/android-imkf-sdk.git</connection>
-    <developerConnection>scm:git@https://github.com/kzlf/android-imkf-sdk.git</developerConnection>
-    <url>https://github.com/kzlf/android-imkf-sdk.git</url>
-  </scm>
-  <issueManagement>
-    <system>GitHub</system>
-    <url>https://github.com/KZLF/</url>
-  </issueManagement>
   <dependencies>
     <dependency>
       <groupId>com.github.7moor-tech</groupId>
