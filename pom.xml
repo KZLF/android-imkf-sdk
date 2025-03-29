@@ -4,4 +4,21 @@
   <groupId>com.github.kzlf</groupId>
   <artifactId>kzlf_imkf_sdk</artifactId>
   <version>4.9.8</version>
+  <dependencies>
+    <dependency>
+      <groupId>com.github.7moor-tech</groupId>
+      <artifactId>7moor_baseLib_sdk</artifactId>
+      <version>0.0.9</version>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib-jdk7</artifactId>
+      <version>1.3.72</version>
+    </dependency>
+    <dependency>
+      <groupId>com.effective.android</groupId>
+      <artifactId>panelSwitchHelper</artifactId>
+      <version>1.3.13</version>
+    </dependency>
+  </dependencies>
 </project>
