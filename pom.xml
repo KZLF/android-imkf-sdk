@@ -4,5 +4,4 @@
   <groupId>com.github.kzlf</groupId>
   <artifactId>kzlf_imkf_sdk</artifactId>
   <version>4.9.8</version>
-  <packaging>aar</packaging>
 </project>
